@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://locking-cw7.pages.dev/sitemap.xml
